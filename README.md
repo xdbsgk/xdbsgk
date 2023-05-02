@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=E3A6AE&height=300&section=header&text=❤YUNHA❤%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=E3A6AE&height=300&section=header&text=❤YUNHA❤%20&fontSize=90&fontColor=ffffff" />
 
 
 
