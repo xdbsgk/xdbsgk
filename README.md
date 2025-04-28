@@ -19,9 +19,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunha@pusan.ac.kr)](yunha@pusan.ac.kr)
 
-### Awards
-
-| Competition | Organization | Prize | Date |
-| --- | --- | --- | --- |
-| 제 4회 CDS 빅데이터 경진대회  | 부산대학교 LINC 3.0 사업단 | 장려상 | Nov 21, 2023 |
-| AI 서비스 국민 제안 공모전 | 한국국토정보공사 | 우수상 | Nov 22, 2022 |
